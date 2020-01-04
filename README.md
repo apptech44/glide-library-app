@@ -29,7 +29,11 @@ Glide.with(context)
 
 ```
 
+### Screen Shot
 
+<img src="https://github.com/apptech44/glide-library-app/blob/master/device-2020-01-05-032715.png" 
+data-canonical-src="https://github.com/apptech44/glide-library-app/blob/master/device-2020-01-05-032715.png" 
+width="200" height="400" />
 
 
 ## Work Done!
